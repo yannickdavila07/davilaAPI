@@ -1,7 +1,7 @@
 # 🏥 Davila API — Sistema de Gestão e Segurança REST
 
 > API RESTful desenvolvida com **Java 17** e **Spring Boot 3**, com foco em boas práticas de arquitetura, validações, persistência de dados em **PostgreSQL** e controle de acesso com **Spring Security**.
-
+<img width="838" height="506" alt="image" src="https://github.com/user-attachments/assets/5bfa37be-d680-4186-bf78-48af2afad9d2" />
 ---
 
 ## 🚀 Tecnologias & Ferramentas
