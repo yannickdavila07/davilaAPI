@@ -80,3 +80,4 @@ Durante a integração com o GitHub, deparei-me com as recentes exigências de s
 3. **Conecte ao front-end:**
 
    - Apos as configurações na arquivo application.properties agora basta configurar e conectar ao fron-end OBS: Não se esqueca de configurar o Cors
+
